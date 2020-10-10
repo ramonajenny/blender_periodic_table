@@ -1,78 +1,90 @@
 import bpy
 import json
+import os
 from math import *
 # <pep8 compliant>
 # <pep8-80 compliant>
+# print(bpy.utils.user_resource("SCRIPTS", "addons"))
 
-with open("periodic-table-lookup.json", "r") as read_file:
-    periodic_table = json.load(read_file)
-
-if "bpy" in locals():
-    # reloading .py files
-    import importlib
-    print("import lib lib")
-
-else:
-    print("importing .py files")
-    import bpy
-    #from . import addon_panel
+json_file = '/home/ramona/PycharmProjects/blender_periodic_table/bl_periodic_table/Periodic_Table_JSON/MyPeriodic_Table.json'
+with open(json_file, "r") as read_file:
+    json_file = json.load(read_file)
 
 bl_info = {
     "name": "Periodic Table",
     "author": "Ramona Niederhausern <ramonajenny.com> <ramonajenny.n@gmail.com>",
     "version": (1, 0),
     "blender": (2, 90, 0),
-    "location": "Veiw3D",
+    "location": "VIEW_3D",
     "description": "adds elements/atoms",
     "warning": "",
     "doc_url": "",
     "tracker_url": "ramonajenny.com",
-    "category": "Add Mesh",
+    "category": "Add Periodic Table",
 }
 
 
 class VIEW3D_PT_periodic_table(bpy.types.Panel):
+    """Creates a Panel in the Object Properties window"""
+    bl_idname = "VIEW3D_PT_periodic_table"
+    bl_label = "Elements"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
     bl_category = 'Periodic Table'
-    bl_idname = "VIEW3D_PT_periodic_table"
-    bl_label = "Elements"
 
     def draw(self, context):
         layout = self.layout
         row = layout.row()
-        row.operator("mesh.primitive_uv_sphere_add", text="")
-        row.operator("mesh.primitive_uv_sphere_add", text="Add AtomsAtoms")
+        layout.operator_menu_enum("object.select_by_type", "type", text="Select an Element...")
+        row = layout.row()
+        row.label(text="Number:")
+        row.operator("Object.add_and_define_atom", text="json_file['number']")
+        row = layout.row()
+        row.label(text="Name")
+        row.operator("Object.add_and_define_atom", text="json_file['name']")
+        row = layout.row()
+        row.label(text="Color:")
+        row.operator("Object.add_and_define_atom", text="json_file['color']")
+        row = layout.row()
+        row.label(text="Atomic Mass:")
+        row.operator("Object.add_and_define_atom", text="json_file['Atomic Mass']")
 
-        for i in range(7):
-            row = layout.row(align=True, heading_ctxt="this one")
-            #row.scale_y = 1
-            for j in range(5):
-                col = row.column(align=True, heading_ctxt="this two")
-                col.operator("mesh.primitive_uv_sphere_add", text="Helium")
-                cursor = context.cursor
-                layout.prop(cursor, "rotation_mode", text="")
+        layout.operator("Object.add_and_define_atom", text="Add Atom")
+       # layout.separator()
+       # layout.operator_enum("object.light_add", "type")
 
 
-class WM_OT_text_operator(bpy.types.Operator):
-    bl_idname = "WM_OT_text_operator"
-    bl_label = "inset json file"
-
-    text = bpy.props.StringProperty(name="readin JSON file")
-    scale = bpy.props.FloatProperty(name="Scale:", default=1)
+class add_and_define_atom(bpy.types.Operator):
+    bl_idname = "object.add_and_define_atom"
+    bl_label = "Characteristics"
 
     def execute(self, context):
+        layout = self.layout
+        #row = layout.row()
+        #row.operator("object.text_add")
+        bpy.ops.mesh.primitive_uv_sphere_add(radius=2.0, align='WORLD')
+        print("adding")
 
-        return {'FINISHED'}
 
-    def invoke(self, context, event):
 
-        return context.window_manager.invoke_props_dialog(self)
+
+class JSON_PT_filepath(bpy.types.Panel):
+    bl_label = "JSON_PT_filepath"
+    bl_category = "JSON data"
+    bl_space_type = "VIEW_3D"
+    bl_region_type = "UI"
+
+    def draw(self, context):
+        layout = self.layout
+        row = layout.row()
+        JSON_tools = context.scene.JSON_file
+        row.prop(JSON_tools, "json_file")
 
 
 blender_classes = [
     VIEW3D_PT_periodic_table,
-    #WM_OT_text_operator
+    add_and_define_atom,
+    JSON_PT_filepath,
 ]
 
 
@@ -88,3 +100,6 @@ def unregister():
         print("am i unregistered")
     print("Goodbye my World")
 
+
+if __name__ == "__main__":
+    register()

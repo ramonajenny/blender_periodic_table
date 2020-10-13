@@ -26,7 +26,10 @@
       "ionization_energies": [
         1312
       ],
-      "color_RBG": "[255,255,255]"
+      "color_RBG": "[255,255,255]",
+      "atomic_radius_empirical": 25,
+      "van_der_waals_radius": 120,
+      "covalent_radius_single_bond": 38
     },
     {
       "name": "Helium",
@@ -55,7 +58,10 @@
         2372.3,
         5250.5
       ],
-      "color_RBG": "[217,255,255]"
+      "color_RBG": "[217,255,255]",
+      "atomic_radius_empirical": 120,
+      "van_der_waals_radius": 140,
+      "covalent_radius_single_bond": 32
     },
     {
       "name": "Lithium",
@@ -86,7 +92,10 @@
         7298.1,
         11815
       ],
-      "color_RBG": "[204,128,255]"
+      "color_RBG": "[204,128,255]",
+      "atomic_radius_empirical": 145,
+      "van_der_waals_radius": 182,
+      "covalent_radius_single_bond": 134
     },
     {
       "name": "Beryllium",
@@ -118,7 +127,10 @@
         14848.7,
         21006.6
       ],
-      "color_RBG": "[194,255,0]"
+      "color_RBG": "[194,255,0]",
+      "atomic_radius_empirical": 105,
+      "van_der_waals_radius": 153,
+      "covalent_radius_single_bond": 90
     },
     {
       "name": "Boron",
@@ -151,7 +163,10 @@
         25025.8,
         32826.7
       ],
-      "color_RBG": "[255,181,181]"
+      "color_RBG": "[255,181,181]",
+      "atomic_radius_empirical": 85,
+      "van_der_waals_radius": 192,
+      "covalent_radius_single_bond": 82
     },
     {
       "name": "Carbon",
@@ -185,7 +200,10 @@
         37831,
         47277
       ],
-      "color_RBG": "[144,144,144]"
+      "color_RBG": "[144,144,144]",
+      "atomic_radius_empirical": 70,
+      "van_der_waals_radius": 170,
+      "covalent_radius_single_bond": 77
     },
     {
       "name": "Nitrogen",
@@ -220,7 +238,10 @@
         53266.6,
         64360
       ],
-      "color_RBG": "[48,80,248]"
+      "color_RBG": "[48,80,248]",
+      "atomic_radius_empirical": 65,
+      "van_der_waals_radius": 155,
+      "covalent_radius_single_bond": 75
     },
     {
       "name": "Oxygen",
@@ -256,7 +277,10 @@
         71330,
         84078
       ],
-      "color_RBG": "[255,13,13]"
+      "color_RBG": "[255,13,13]",
+      "atomic_radius_empirical": 60,
+      "van_der_waals_radius": 152,
+      "covalent_radius_single_bond": 73
     },
     {
       "name": "Fluorine",
@@ -293,7 +317,10 @@
         92038.1,
         106434.3
       ],
-      "color_RBG": "[144,224,80]"
+      "color_RBG": "[144,224,80]",
+      "atomic_radius_empirical": 50,
+      "van_der_waals_radius": 147,
+      "covalent_radius_single_bond": 71
     },
     {
       "name": "Neon",
@@ -331,7 +358,10 @@
         115379.5,
         131432
       ],
-      "color_RBG": "[179,227,245]"
+      "color_RBG": "[179,227,245]",
+      "atomic_radius_empirical": 160,
+      "van_der_waals_radius": 154,
+      "covalent_radius_single_bond": 69
     },
     {
       "name": "Sodium",
@@ -371,7 +401,10 @@
         141362,
         159076
       ],
-      "color_RBG": "[171,92,242]"
+      "color_RBG": "[171,92,242]",
+      "atomic_radius_empirical": 180,
+      "van_der_waals_radius": 227,
+      "covalent_radius_single_bond": 154
     },
     {
       "name": "Magnesium",
@@ -412,7 +445,10 @@
         169988,
         189368
       ],
-      "color_RBG": "[138,255,0]"
+      "color_RBG": "[138,255,0]",
+      "atomic_radius_empirical": 150,
+      "van_der_waals_radius": 173,
+      "covalent_radius_single_bond": 130
     },
     {
       "name": "Aluminium",
@@ -454,7 +490,10 @@
         201266,
         222316
       ],
-      "color_RBG": "[191,166,166]"
+      "color_RBG": "[191,166,166]",
+      "atomic_radius_empirical": 125,
+      "van_der_waals_radius": 184,
+      "covalent_radius_single_bond": 118
     },
     {
       "name": "Silicon",
@@ -497,7 +536,10 @@
         235196,
         257923
       ],
-      "color_RBG": "[240,200,160]"
+      "color_RBG": "[240,200,160]",
+      "atomic_radius_empirical": 110,
+      "van_der_waals_radius": 210,
+      "covalent_radius_single_bond": 111
     },
     {
       "name": "Phosphorus",
@@ -541,7 +583,10 @@
         271791,
         296195
       ],
-      "color_RBG": "[255,128,0]"
+      "color_RBG": "[255,128,0]",
+      "atomic_radius_empirical": 100,
+      "van_der_waals_radius": 180,
+      "covalent_radius_single_bond": 106
     },
     {
       "name": "Sulfur",
@@ -586,7 +631,10 @@
         311048,
         337138
       ],
-      "color_RBG": "[255,255,48]"
+      "color_RBG": "[255,255,48]",
+      "atomic_radius_empirical": 100,
+      "van_der_waals_radius": 180,
+      "covalent_radius_single_bond": 102
     },
     {
       "name": "Chlorine",
@@ -632,7 +680,10 @@
         352994,
         380760
       ],
-      "color_RBG": "[31,240,31]"
+      "color_RBG": "[31,240,31]",
+      "atomic_radius_empirical": 100,
+      "van_der_waals_radius": 175,
+      "covalent_radius_single_bond": 99
     },
     {
       "name": "Argon",
@@ -679,7 +730,10 @@
         397605,
         427066
       ],
-      "color_RBG": "[128,209,227]"
+      "color_RBG": "[128,209,227]",
+      "atomic_radius_empirical": 71,
+      "van_der_waals_radius": 188,
+      "covalent_radius_single_bond": 97
     },
     {
       "name": "Potassium",
@@ -728,7 +782,10 @@
         444880,
         476063
       ],
-      "color_RBG": "[143,64,212]"
+      "color_RBG": "[143,64,212]",
+      "atomic_radius_empirical": 220,
+      "van_der_waals_radius": 275,
+      "covalent_radius_single_bond": 196
     },
     {
       "name": "Calcium",
@@ -778,7 +835,10 @@
         494850,
         527762
       ],
-      "color_RBG": "[61,255,0]"
+      "color_RBG": "[61,255,0]",
+      "atomic_radius_empirical": 180,
+      "van_der_waals_radius": 231,
+      "covalent_radius_single_bond": 174
     },
     {
       "name": "Scandium",
@@ -829,7 +889,10 @@
         547530,
         582163
       ],
-      "color_RBG": "[230,230,230]"
+      "color_RBG": "[230,230,230]",
+      "atomic_radius_empirical": 160,
+      "van_der_waals_radius": 211,
+      "covalent_radius_single_bond": 144
     },
     {
       "name": "Titanium",
@@ -881,7 +944,10 @@
         602930,
         639294
       ],
-      "color_RBG": "[191,194,199]"
+      "color_RBG": "[191,194,199]",
+      "atomic_radius_empirical": 140,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 136
     },
     {
       "name": "Vanadium",
@@ -934,7 +1000,10 @@
         661050,
         699144
       ],
-      "color_RBG": "[166,166,171]"
+      "color_RBG": "[166,166,171]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 125
     },
     {
       "name": "Chromium",
@@ -988,7 +1057,10 @@
         721870,
         761733
       ],
-      "color_RBG": "[138,153,199]"
+      "color_RBG": "[138,153,199]",
+      "atomic_radius_empirical": 140,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 127
     },
     {
       "name": "Manganese",
@@ -1043,7 +1115,10 @@
         785450,
         827067
       ],
-      "color_RBG": "[156,122,199]"
+      "color_RBG": "[156,122,199]",
+      "atomic_radius_empirical": 140,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 139
     },
     {
       "name": "Iron",
@@ -1099,7 +1174,10 @@
         851800,
         895161
       ],
-      "color_RBG": "[224,102,51]"
+      "color_RBG": "[224,102,51]",
+      "atomic_radius_empirical": 140,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 125
     },
     {
       "name": "Cobalt",
@@ -1156,7 +1234,10 @@
         920870,
         966023
       ],
-      "color_RBG": "[240,144,160]"
+      "color_RBG": "[240,144,160]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 126
     },
     {
       "name": "Nickel",
@@ -1214,7 +1295,10 @@
         992718,
         1039668
       ],
-      "color_RBG": "[80,208,80]"
+      "color_RBG": "[80,208,80]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": 163,
+      "covalent_radius_single_bond": 121
     },
     {
       "name": "Copper",
@@ -1273,7 +1357,10 @@
         1067358,
         1116105
       ],
-      "color_RBG": "[200,128,51]"
+      "color_RBG": "[200,128,51]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": 140,
+      "covalent_radius_single_bond": 138
     },
     {
       "name": "Zinc",
@@ -1324,7 +1411,10 @@
         71200,
         179100
       ],
-      "color_RBG": "[125,128,176]"
+      "color_RBG": "[125,128,176]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": 139,
+      "covalent_radius_single_bond": 131
     },
     {
       "name": "Gallium",
@@ -1358,7 +1448,10 @@
         2963,
         6180
       ],
-      "color_RBG": "[194,143,143]"
+      "color_RBG": "[194,143,143]",
+      "atomic_radius_empirical": 130,
+      "van_der_waals_radius": 187,
+      "covalent_radius_single_bond": 126
     },
     {
       "name": "Germanium",
@@ -1393,7 +1486,10 @@
         4411,
         9020
       ],
-      "color_RBG": "[102,143,143]"
+      "color_RBG": "[102,143,143]",
+      "atomic_radius_empirical": 125,
+      "van_der_waals_radius": 211,
+      "covalent_radius_single_bond": 122
     },
     {
       "name": "Arsenic",
@@ -1429,7 +1525,10 @@
         6043,
         12310
       ],
-      "color_RBG": "[189,128,227]"
+      "color_RBG": "[189,128,227]",
+      "atomic_radius_empirical": 115,
+      "van_der_waals_radius": 185,
+      "covalent_radius_single_bond": 119
     },
     {
       "name": "Selenium",
@@ -1466,7 +1565,10 @@
         7880,
         14990
       ],
-      "color_RBG": "[255,161,0]"
+      "color_RBG": "[255,161,0]",
+      "atomic_radius_empirical": 115,
+      "van_der_waals_radius": 190,
+      "covalent_radius_single_bond": 116
     },
     {
       "name": "Bromine",
@@ -1504,7 +1606,10 @@
         9940,
         18600
       ],
-      "color_RBG": "[166,41,41]"
+      "color_RBG": "[166,41,41]",
+      "atomic_radius_empirical": 115,
+      "van_der_waals_radius": 185,
+      "covalent_radius_single_bond": 114
     },
     {
       "name": "Krypton",
@@ -1564,7 +1669,10 @@
         311400,
         326200
       ],
-      "color_RBG": "[92,184,209]"
+      "color_RBG": "[92,184,209]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": 202,
+      "covalent_radius_single_bond": 110
     },
     {
       "name": "Rubidium",
@@ -1605,7 +1713,10 @@
         14500,
         26740
       ],
-      "color_RBG": "[112,46,176]"
+      "color_RBG": "[112,46,176]",
+      "atomic_radius_empirical": 235,
+      "van_der_waals_radius": 303,
+      "covalent_radius_single_bond": 211
     },
     {
       "name": "Strontium",
@@ -1647,7 +1758,10 @@
         17100,
         31270
       ],
-      "color_RBG": "[0,255,0]"
+      "color_RBG": "[0,255,0]",
+      "atomic_radius_empirical": 200,
+      "van_der_waals_radius": 249,
+      "covalent_radius_single_bond": 192
     },
     {
       "name": "Yttrium",
@@ -1690,7 +1804,10 @@
         19900,
         36090
       ],
-      "color_RBG": "[148,255,255]"
+      "color_RBG": "[148,255,255]",
+      "atomic_radius_empirical": 180,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 162
     },
     {
       "name": "Zirconium",
@@ -1727,7 +1844,10 @@
         7752,
         9500
       ],
-      "color_RBG": "[148,224,224]"
+      "color_RBG": "[148,224,224]",
+      "atomic_radius_empirical": 155,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 148
     },
     {
       "name": "Niobium",
@@ -1765,7 +1885,10 @@
         9847,
         12100
       ],
-      "color_RBG": "[115,194,201]"
+      "color_RBG": "[115,194,201]",
+      "atomic_radius_empirical": 145,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 137
     },
     {
       "name": "Molybdenum",
@@ -1826,7 +1949,10 @@
         148100,
         154500
       ],
-      "color_RBG": "[84,181,181]"
+      "color_RBG": "[84,181,181]",
+      "atomic_radius_empirical": 145,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 145
     },
     {
       "name": "Technetium",
@@ -1860,7 +1986,10 @@
         1470,
         2850
       ],
-      "color_RBG": "[59,158,158]"
+      "color_RBG": "[59,158,158]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 156
     },
     {
       "name": "Ruthenium",
@@ -1894,7 +2023,10 @@
         1620,
         2747
       ],
-      "color_RBG": "[36,143,143]"
+      "color_RBG": "[36,143,143]",
+      "atomic_radius_empirical": 130,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 126
     },
     {
       "name": "Rhodium",
@@ -1928,7 +2060,10 @@
         1740,
         2997
       ],
-      "color_RBG": "[10,125,140]"
+      "color_RBG": "[10,125,140]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 135
     },
     {
       "name": "Palladium",
@@ -1961,7 +2096,10 @@
         1870,
         3177
       ],
-      "color_RBG": "[0,105,133]"
+      "color_RBG": "[0,105,133]",
+      "atomic_radius_empirical": 140,
+      "van_der_waals_radius": 163,
+      "covalent_radius_single_bond": 131
     },
     {
       "name": "Silver",
@@ -1995,7 +2133,10 @@
         2070,
         3361
       ],
-      "color_RBG": "[192,192,192]"
+      "color_RBG": "[192,192,192]",
+      "atomic_radius_empirical": 160,
+      "van_der_waals_radius": 172,
+      "covalent_radius_single_bond": 153
     },
     {
       "name": "Cadmium",
@@ -2029,7 +2170,10 @@
         1631.4,
         3616
       ],
-      "color_RBG": "[255,217,143]"
+      "color_RBG": "[255,217,143]",
+      "atomic_radius_empirical": 155,
+      "van_der_waals_radius": 158,
+      "covalent_radius_single_bond": 148
     },
     {
       "name": "Indium",
@@ -2064,7 +2208,10 @@
         2704,
         5210
       ],
-      "color_RBG": "[166,117,115]"
+      "color_RBG": "[166,117,115]",
+      "atomic_radius_empirical": 155,
+      "van_der_waals_radius": 193,
+      "covalent_radius_single_bond": 144
     },
     {
       "name": "Tin",
@@ -2100,7 +2247,10 @@
         3930.3,
         7456
       ],
-      "color_RBG": "[102,128,128]"
+      "color_RBG": "[102,128,128]",
+      "atomic_radius_empirical": 145,
+      "van_der_waals_radius": 217,
+      "covalent_radius_single_bond": 141
     },
     {
       "name": "Antimony",
@@ -2137,7 +2287,10 @@
         5400,
         10400
       ],
-      "color_RBG": "[158,99,181]"
+      "color_RBG": "[158,99,181]",
+      "atomic_radius_empirical": 145,
+      "van_der_waals_radius": 206,
+      "covalent_radius_single_bond": 138
     },
     {
       "name": "Tellurium",
@@ -2175,7 +2328,10 @@
         6820,
         13200
       ],
-      "color_RBG": "[212,122,0]"
+      "color_RBG": "[212,122,0]",
+      "atomic_radius_empirical": 140,
+      "van_der_waals_radius": 206,
+      "covalent_radius_single_bond": 135
     },
     {
       "name": "Iodine",
@@ -2209,7 +2365,10 @@
         1845.9,
         3180
       ],
-      "color_RBG": "[148,0,148]"
+      "color_RBG": "[148,0,148]",
+      "atomic_radius_empirical": 140,
+      "van_der_waals_radius": 198,
+      "covalent_radius_single_bond": 133
     },
     {
       "name": "Xenon",
@@ -2243,7 +2402,10 @@
         2046.4,
         3099.4
       ],
-      "color_RBG": "[66,158,176]"
+      "color_RBG": "[66,158,176]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": 216,
+      "covalent_radius_single_bond": 130
     },
     {
       "name": "Cesium",
@@ -2278,7 +2440,10 @@
         2234.3,
         3400
       ],
-      "color_RBG": "[87,23,143]"
+      "color_RBG": "[87,23,143]",
+      "atomic_radius_empirical": 265,
+      "van_der_waals_radius": 343,
+      "covalent_radius_single_bond": 225
     },
     {
       "name": "Barium",
@@ -2313,7 +2478,10 @@
         965.2,
         3600
       ],
-      "color_RBG": "[0,201,0]"
+      "color_RBG": "[0,201,0]",
+      "atomic_radius_empirical": 215,
+      "van_der_waals_radius": 268,
+      "covalent_radius_single_bond": 198
     },
     {
       "name": "Lanthanum",
@@ -2350,7 +2518,10 @@
         4819,
         5940
       ],
-      "color_RBG": "[112,212,255]"
+      "color_RBG": "[112,212,255]",
+      "atomic_radius_empirical": 195,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 169
     },
     {
       "name": "Cerium",
@@ -2388,7 +2559,10 @@
         6325,
         7490
       ],
-      "color_RBG": "[255,255,199]"
+      "color_RBG": "[255,255,199]",
+      "atomic_radius_empirical": 185,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 165
     },
     {
       "name": "Praseodymium",
@@ -2425,7 +2599,10 @@
         3761,
         5551
       ],
-      "color_RBG": "[217,255,199]"
+      "color_RBG": "[217,255,199]",
+      "atomic_radius_empirical": 185,
+      "van_der_waals_radius": 10,
+      "covalent_radius_single_bond": 11
     },
     {
       "name": "Neodymium",
@@ -2461,7 +2638,10 @@
         2130,
         3900
       ],
-      "color_RBG": "[199,255,199]"
+      "color_RBG": "[199,255,199]",
+      "atomic_radius_empirical": 185,
+      "van_der_waals_radius": 20,
+      "covalent_radius_single_bond": 20
     },
     {
       "name": "Promethium",
@@ -2497,7 +2677,10 @@
         2150,
         3970
       ],
-      "color_RBG": "[163,255,199]"
+      "color_RBG": "[163,255,199]",
+      "atomic_radius_empirical": 185,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Samarium",
@@ -2533,7 +2716,10 @@
         2260,
         3990
       ],
-      "color_RBG": "[143,255,199]"
+      "color_RBG": "[143,255,199]",
+      "atomic_radius_empirical": 185,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Europium",
@@ -2569,7 +2755,10 @@
         2404,
         4120
       ],
-      "color_RBG": "[97,255,199]"
+      "color_RBG": "[97,255,199]",
+      "atomic_radius_empirical": 185,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Gadolinium",
@@ -2605,7 +2794,10 @@
         1990,
         4250
       ],
-      "color_RBG": "[69,255,199]"
+      "color_RBG": "[69,255,199]",
+      "atomic_radius_empirical": 180,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Terbium",
@@ -2641,7 +2833,10 @@
         2114,
         3839
       ],
-      "color_RBG": "[48,255,199]"
+      "color_RBG": "[48,255,199]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Dysprosium",
@@ -2677,7 +2872,10 @@
         2200,
         3990
       ],
-      "color_RBG": "[31,255,199]"
+      "color_RBG": "[31,255,199]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Holmium",
@@ -2713,7 +2911,10 @@
         2204,
         4100
       ],
-      "color_RBG": "[0,255,156]"
+      "color_RBG": "[0,255,156]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Erbium",
@@ -2749,7 +2950,10 @@
         2194,
         4120
       ],
-      "color_RBG": "[0,230,117]"
+      "color_RBG": "[0,230,117]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Thulium",
@@ -2785,7 +2989,10 @@
         2285,
         4120
       ],
-      "color_RBG": "[0,212,82]"
+      "color_RBG": "[0,212,82]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Ytterbium",
@@ -2821,7 +3028,10 @@
         2417,
         4203
       ],
-      "color_RBG": "[0,191,56]"
+      "color_RBG": "[0,191,56]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Lutetium",
@@ -2858,7 +3068,10 @@
         4370,
         6445
       ],
-      "color_RBG": "[0,171,36]"
+      "color_RBG": "[0,171,36]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 160
     },
     {
       "name": "Hafnium",
@@ -2894,7 +3107,10 @@
         2250,
         3216
       ],
-      "color_RBG": "[77,194,255]"
+      "color_RBG": "[77,194,255]",
+      "atomic_radius_empirical": 155,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 150
     },
     {
       "name": "Tantalum",
@@ -2928,7 +3144,10 @@
         761,
         1500
       ],
-      "color_RBG": "[77,166,255]"
+      "color_RBG": "[77,166,255]",
+      "atomic_radius_empirical": 145,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 138
     },
     {
       "name": "Tungsten",
@@ -2962,7 +3181,10 @@
         770,
         1700
       ],
-      "color_RBG": "[33,148,214]"
+      "color_RBG": "[33,148,214]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 146
     },
     {
       "name": "Rhenium",
@@ -2998,7 +3220,10 @@
         2510,
         3640
       ],
-      "color_RBG": "[38,125,171]"
+      "color_RBG": "[38,125,171]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 159
     },
     {
       "name": "Osmium",
@@ -3032,7 +3257,10 @@
         840,
         1600
       ],
-      "color_RBG": "[38,102,150]"
+      "color_RBG": "[38,102,150]",
+      "atomic_radius_empirical": 130,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 128
     },
     {
       "name": "Iridium",
@@ -3066,7 +3294,10 @@
         880,
         1600
       ],
-      "color_RBG": "[23,84,135]"
+      "color_RBG": "[23,84,135]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": 137
     },
     {
       "name": "Platinum",
@@ -3100,7 +3331,10 @@
         870,
         1791
       ],
-      "color_RBG": "[208,208,224]"
+      "color_RBG": "[208,208,224]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": 175,
+      "covalent_radius_single_bond": 128
     },
     {
       "name": "Gold",
@@ -3134,7 +3368,10 @@
         890.1,
         1980
       ],
-      "color_RBG": "[255,209,35]"
+      "color_RBG": "[255,209,35]",
+      "atomic_radius_empirical": 135,
+      "van_der_waals_radius": 166,
+      "covalent_radius_single_bond": 144
     },
     {
       "name": "Mercury",
@@ -3169,7 +3406,10 @@
         1810,
         3300
       ],
-      "color_RBG": "[184,184,208]"
+      "color_RBG": "[184,184,208]",
+      "atomic_radius_empirical": 150,
+      "van_der_waals_radius": 155,
+      "covalent_radius_single_bond": 149
     },
     {
       "name": "Thallium",
@@ -3204,7 +3444,10 @@
         1971,
         2878
       ],
-      "color_RBG": "[166,84,77]"
+      "color_RBG": "[166,84,77]",
+      "atomic_radius_empirical": 190,
+      "van_der_waals_radius": 196,
+      "covalent_radius_single_bond": 148
     },
     {
       "name": "Lead",
@@ -3241,7 +3484,10 @@
         4083,
         6640
       ],
-      "color_RBG": "[87,89,97]"
+      "color_RBG": "[87,89,97]",
+      "atomic_radius_empirical": 180,
+      "van_der_waals_radius": 202,
+      "covalent_radius_single_bond": 147
     },
     {
       "name": "Bismuth",
@@ -3279,7 +3525,10 @@
         5400,
         8520
       ],
-      "color_RBG": "[158,79,181]"
+      "color_RBG": "[158,79,181]",
+      "atomic_radius_empirical": 160,
+      "van_der_waals_radius": 207,
+      "covalent_radius_single_bond": 146
     },
     {
       "name": "Polonium",
@@ -3312,7 +3561,10 @@
       "ionization_energies": [
         812.1
       ],
-      "color_RBG": "[171,92,0]"
+      "color_RBG": "[171,92,0]",
+      "atomic_radius_empirical": 190,
+      "van_der_waals_radius": 197,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Astatine",
@@ -3345,7 +3597,10 @@
       "ionization_energies": [
         899.003
       ],
-      "color_RBG": "[117,79,69]"
+      "color_RBG": "[117,79,69]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": 202,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Radon",
@@ -3378,7 +3633,10 @@
       "ionization_energies": [
         1037
       ],
-      "color_RBG": "[66,130,150]"
+      "color_RBG": "[66,130,150]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": 220,
+      "covalent_radius_single_bond": 145
     },
     {
       "name": "Francium",
@@ -3412,7 +3670,10 @@
       "ionization_energies": [
         380
       ],
-      "color_RBG": "[66,0,102]"
+      "color_RBG": "[66,0,102]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": 348,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Radium",
@@ -3447,7 +3708,10 @@
         509.3,
         979
       ],
-      "color_RBG": "[0,125,0]"
+      "color_RBG": "[0,125,0]",
+      "atomic_radius_empirical": 215,
+      "van_der_waals_radius": 283,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Actinium",
@@ -3482,7 +3746,10 @@
         499,
         1170
       ],
-      "color_RBG": "[112,171,250]"
+      "color_RBG": "[112,171,250]",
+      "atomic_radius_empirical": 195,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Thorium",
@@ -3519,7 +3786,10 @@
         1930,
         2780
       ],
-      "color_RBG": "[0,186,255]"
+      "color_RBG": "[0,186,255]",
+      "atomic_radius_empirical": 180,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Protactinium",
@@ -3553,7 +3823,10 @@
       "ionization_energies": [
         568
       ],
-      "color_RBG": "[0,161,255]"
+      "color_RBG": "[0,161,255]",
+      "atomic_radius_empirical": 180,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Uranium",
@@ -3588,7 +3861,10 @@
         597.6,
         1420
       ],
-      "color_RBG": "[0,143,255]"
+      "color_RBG": "[0,143,255]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": 186,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Neptunium",
@@ -3622,7 +3898,10 @@
       "ionization_energies": [
         604.5
       ],
-      "color_RBG": "[0,128,255]"
+      "color_RBG": "[0,128,255]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Plutonium",
@@ -3656,7 +3935,10 @@
       "ionization_energies": [
         584.7
       ],
-      "color_RBG": "[0,107,255]"
+      "color_RBG": "[0,107,255]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Americium",
@@ -3690,7 +3972,10 @@
       "ionization_energies": [
         578
       ],
-      "color_RBG": "[84,92,242]"
+      "color_RBG": "[84,92,242]",
+      "atomic_radius_empirical": 175,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Curium",
@@ -3724,7 +4009,10 @@
       "ionization_energies": [
         581
       ],
-      "color_RBG": "[120,92,227]"
+      "color_RBG": "[120,92,227]",
+      "atomic_radius_empirical": 176,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Berkelium",
@@ -3758,7 +4046,10 @@
       "ionization_energies": [
         601
       ],
-      "color_RBG": "[138,79,227]"
+      "color_RBG": "[138,79,227]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Californium",
@@ -3792,7 +4083,10 @@
       "ionization_energies": [
         608
       ],
-      "color_RBG": "[161,54,212]"
+      "color_RBG": "[161,54,212]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Einsteinium",
@@ -3826,7 +4120,10 @@
       "ionization_energies": [
         619
       ],
-      "color_RBG": "[179,31,212]"
+      "color_RBG": "[179,31,212]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Fermium",
@@ -3860,7 +4157,10 @@
       "ionization_energies": [
         627
       ],
-      "color_RBG": "[179,31,186]"
+      "color_RBG": "[179,31,186]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Mendelevium",
@@ -3894,7 +4194,10 @@
       "ionization_energies": [
         635
       ],
-      "color_RBG": "[179,13,166]"
+      "color_RBG": "[179,13,166]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Nobelium",
@@ -3928,7 +4231,10 @@
       "ionization_energies": [
         642
       ],
-      "color_RBG": "[189,13,135]"
+      "color_RBG": "[189,13,135]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Lawrencium",
@@ -3962,7 +4268,10 @@
       "ionization_energies": [
         470
       ],
-      "color_RBG": "[199,0,102]"
+      "color_RBG": "[199,0,102]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Rutherfordium",
@@ -3996,7 +4305,10 @@
       "ionization_energies": [
         580
       ],
-      "color_RBG": "[204,0,89]"
+      "color_RBG": "[204,0,89]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Dubnium",
@@ -4028,7 +4340,10 @@
       "electron_affinity": null,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[209,0,79]"
+      "color_RBG": "[209,0,79]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Seaborgium",
@@ -4060,7 +4375,10 @@
       "electron_affinity": null,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[217,0,69]"
+      "color_RBG": "[217,0,69]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Bohrium",
@@ -4092,7 +4410,10 @@
       "electron_affinity": null,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[224,0,56]"
+      "color_RBG": "[224,0,56]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Hassium",
@@ -4124,7 +4445,10 @@
       "electron_affinity": null,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[230,0,46]"
+      "color_RBG": "[230,0,46]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Meitnerium",
@@ -4156,7 +4480,10 @@
       "electron_affinity": null,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[235,0,38]"
+      "color_RBG": "[235,0,38]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Darmstadtium",
@@ -4188,7 +4515,10 @@
       "electron_affinity": null,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[235,235,235]"
+      "color_RBG": "[235,235,235]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Roentgenium",
@@ -4220,7 +4550,10 @@
       "electron_affinity": 151,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[235,235,235]"
+      "color_RBG": "[235,235,235]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Copernicium",
@@ -4252,7 +4585,10 @@
       "electron_affinity": null,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[184,184,208]"
+      "color_RBG": "[184,184,208]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Nihonium",
@@ -4284,7 +4620,10 @@
       "electron_affinity": 66.6,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[235,235,235]"
+      "color_RBG": "[235,235,235]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Flerovium",
@@ -4316,7 +4655,10 @@
       "electron_affinity": null,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[235,235,235]"
+      "color_RBG": "[235,235,235]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Moscovium",
@@ -4348,7 +4690,10 @@
       "electron_affinity": 35.3,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[235,235,235]"
+      "color_RBG": "[235,235,235]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Livermorium",
@@ -4380,7 +4725,10 @@
       "electron_affinity": 74.9,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[235,235,235]"
+      "color_RBG": "[235,235,235]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Tennessine",
@@ -4412,7 +4760,10 @@
       "electron_affinity": 165.9,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[235,235,235]"
+      "color_RBG": "[235,235,235]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Oganesson",
@@ -4444,7 +4795,10 @@
       "electron_affinity": 5.40318,
       "electronegativity_pauling": null,
       "ionization_energies": [],
-      "color_RBG": "[235,235,235]"
+      "color_RBG": "[235,235,235]",
+      "atomic_radius_empirical": -1,
+      "van_der_waals_radius": -1,
+      "covalent_radius_single_bond": -1
     },
     {
       "name": "Ununennium",
